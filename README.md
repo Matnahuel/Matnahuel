@@ -1,4 +1,4 @@
-## Buena 👋, Soy Matias Carabajal 
+## Buenas 👋, Soy Matias Carabajal 
 Estudiante de Ingeniería en Informática de Argentina.
 <!-- Linkedin -->
 <h3 align="left">Conoceme en:</h3>

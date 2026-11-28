@@ -10,7 +10,7 @@ Soy **Desarrollador Full Stack** y **Técnico Universitario en Programación** d
 
 ---
 
-### 💻 Sobre mí
+### 💻 Proyectos
 
 - 🛒 **Olla Vegana (vía Oestack):** desarrollé una plataforma web full stack integral con gestión de pedidos, stock y donaciones, integración de **Mercado Pago** (Checkout Pro y Webhooks), control de concurrencia de stock para evitar sobreventas, despliegue en servidor Linux autohospedado con **PM2** y **Cloudflare Tunnels**, y pruebas de carga con **K6**.
 - 🌾 **Proyecto SIGA (UNAHUR / INTA):** trabajé como Desarrollador Full Stack (PPS) migrando bases de datos de **SQL Server** a **PostgreSQL con PostGIS** manteniendo la integridad de datos geoespaciales, construyendo APIs REST, integrando mapas interactivos y generando reportes automáticos en PDF bajo **Scrum**.
